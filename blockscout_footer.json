@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Developers",
+    "links": [
+      {
+        "text": "Documentation",
+        "url": "https://docs.aitikchain.com/"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/aitikchain"
+      }
+    ]
+  },
+  {
+    "title": "Community",
+    "links": [
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/aitikchain"
+      },
+      {
+        "text": "Telegram Group",
+        "url": "https://t.me/aitikchain"
+      },
+      {
+        "text": "Telegram Community",
+        "url": "https://t.me/aitikchain_Announcement"
+      },
+      {
+        "text": "YouTube",
+        "url": "https://youtube.com/aitikchain"
+      }
+    ]
+  },
+  {
+    "title": "About AitikChain",
+    "links": [
+      {
+        "text": "About",
+        "url": "https://aitikchain.com/"
+      },
+      {
+        "text": "Company Details",
+        "url": "https://aitikchain.com/"
+      },
+      {
+        "text": "Audit",
+        "url": "https://aitikchain.com/"
+      }
+    ]
+  },
+  {
+    "title": "Partners",
+    "links": [
+      {
+        "text": "CertiK",
+        "url": "https://blocksec.com/metasuites"
+      }
+    ]
+  }
+]
