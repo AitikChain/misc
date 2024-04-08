@@ -1,5 +1,26 @@
 [
   {
+    "title": "Important Link",
+    "links": [
+      {
+        "text": "AitikChain Presale",
+        "url": "https://aitikchain.com/#home"
+      },
+      {
+        "text": "Tokenomics",
+        "url": "https://aitikchain.com/#tokenomics"
+      },
+      {
+        "text": "Ecosystem",
+        "url": "https://aitikchain.com/#ecosystem"
+      },
+      {
+        "text": "FAQ",
+        "url": "https://aitikchain.com/#faq"
+      }
+    ]
+  },
+  {
     "title": "Developers",
     "links": [
       {
