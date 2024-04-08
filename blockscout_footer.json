@@ -15,8 +15,8 @@
         "url": "https://aitikchain.com/#ecosystem"
       },
       {
-        "text": "FAQ",
-        "url": "https://aitikchain.com/#faq"
+        "text": "KYC",
+        "url": "https://docs.aitikchain.com/"
       }
     ]
   },
@@ -51,32 +51,6 @@
       {
         "text": "YouTube",
         "url": "https://youtube.com/aitikchain"
-      }
-    ]
-  },
-  {
-    "title": "About AitikChain",
-    "links": [
-      {
-        "text": "About",
-        "url": "https://aitikchain.com/"
-      },
-      {
-        "text": "Company Details",
-        "url": "https://aitikchain.com/"
-      },
-      {
-        "text": "Audit",
-        "url": "https://aitikchain.com/"
-      }
-    ]
-  },
-  {
-    "title": "Partners",
-    "links": [
-      {
-        "text": "CertiK",
-        "url": "https://blocksec.com/metasuites"
       }
     ]
   }
